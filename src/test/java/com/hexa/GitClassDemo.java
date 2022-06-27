@@ -22,4 +22,13 @@ private void method5() {
 
 }
 
+private void method13() {
+	System.out.println("Inside method13");
+
+}
+private void method14() {
+	System.out.println("Inside method14");
+
+}
+
 }
