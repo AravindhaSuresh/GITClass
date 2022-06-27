@@ -13,6 +13,15 @@ private void method3() {
 	System.out.println("Inside method3");
 
 }
+private void method4() {
+	System.out.println("Inside method4");
+
+}
+private void method5() {
+	System.out.println("Inside method5");
+
+}
+
 private void method13() {
 	System.out.println("Inside method13");
 
